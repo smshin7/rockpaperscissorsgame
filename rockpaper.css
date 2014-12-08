@@ -1,0 +1,62 @@
+#page-title { 
+	color: #3333FF;
+	position: relative;
+	text-align: center;
+	font-family: 'Play', sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	border: 3px blue dashed;
+	border-radius: 10px;
+}
+.welcome-title {
+	position: relative;
+	text-align: center;
+	color: #3333FF;
+	font-family: 'Play', sans-serif;
+	font-weight: bold;
+}
+.game-title {
+	position: relative;
+	text-align: center;
+	color: #3333FF;
+	font-family: 'Play', sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+.results {
+	position: relative;
+	text-align: center;
+	color: #3333FF;
+	font-family: 'Play', sans-serif;
+	font-weight: bold;
+}
+#computer-choice {
+	color: red;
+}
+#compAnswer {
+	text-align: center;
+	font-family: 'Play', sans-serif;
+	font-size: 40px;
+}
+#theResult {
+	text-align: center;
+	font-family: 'Play', sans-serif;
+	font-size: 40px;
+}
+.images {
+	position: relative;
+	text-align: center;
+}
+img {
+	height: 150px;
+	width: 150px;
+	display: inline-block;
+	margin-left: 25px;
+	margin-right: 25px;	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 100px;
+}
+img:hover {
+	border: blue solid 2px;
+}
